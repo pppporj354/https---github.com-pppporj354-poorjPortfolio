@@ -1,0 +1,201 @@
+{
+  "profile": {
+    "name": "Purnama Anugrah",
+    "role": "Full Stack Developer",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix",
+    "email": "purnamaanugrah98@gmail.com",
+    "location": "Kendari, Indonesia",
+    "status": {
+      "available": true,
+      "remote": true
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science",
+        "school": "Your University Name",
+        "year": "2019 - 2023"
+      },
+      {
+        "degree": "High School Diploma",
+        "school": "Your High School Name",
+        "year": "2016 - 2019"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Developer",
+        "issuer": "Amazon Web Services",
+        "year": "2023"
+      },
+      {
+        "name": "Professional Scrum Master I",
+        "issuer": "Scrum.org",
+        "year": "2022"
+      },
+      {
+        "name": "React Developer Certificate",
+        "issuer": "Meta",
+        "year": "2022"
+      }
+    ]
+  },
+  "skills": [
+    { "name": "React", "type": "primary" },
+    { "name": "Node.js", "type": "info" },
+    { "name": "Go", "type": "info" },
+    { "name": "TypeScript", "type": "secondary" },
+    { "name": "Sql", "type": "accent" },
+    { "name": "Tailwind Css", "type": "primary" },
+    { "name": "Figma", "type": "secondary" },
+    { "name": "Firebase", "type": "accent" }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "title": "Intern ",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "Contributed to Open Source",
+      "status": "in-progress"
+    },
+    {
+      "id": 3,
+      "title": "Building Side Project",
+      "status": "in-progress"
+    },
+    {
+      "id": 4,
+      "title": "Student at University",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "Attended Hackathon",
+      "status": "completed"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Dashboard",
+      "description": "Real-time analytics platform with AI integration",
+      "image": "https://example.com/project1.jpg",
+      "type": "showcase",
+      "demoUrl": "https://demo.example.com",
+      "sourceUrl": "https://github.com/username/project",
+      "technologies": [
+        { "name": "React", "type": "primary" },
+        { "name": "TensorFlow", "type": "secondary" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cloud Manager",
+      "description": "Multi-cloud resource management tool",
+      "type": "showcase",
+      "demoUrl": "https://demo.example.com",
+      "sourceUrl": "https://github.com/username/project",
+      "technologies": [
+        { "name": "AWS", "type": "accent" },
+        { "name": "Docker", "type": "info" }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2021",
+      "title": "Senior Developer",
+      "description": "Leading a team of 5 developers in cloud-native projects",
+      "completed": true
+    },
+    {
+      "date": "2021",
+      "title": "Full Stack Developer",
+      "description": "Developed scalable web applications",
+      "completed": true
+    },
+    {
+      "date": "2021",
+      "title": "Full Stack Developer",
+      "description": "Developed scalable web applications",
+      "completed": true
+    },
+    {
+      "date": "2021",
+      "title": "Full Stack Developer",
+      "description": "Developed scalable web applications",
+      "completed": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "content": "An exceptional developer who consistently delivers high-quality solutions. Their expertise in modern web technologies is impressive.",
+      "author": {
+        "name": "Tech Lead",
+        "role": "Lead Developer",
+        "company": "Innovation Corp",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=John"
+      }
+    },
+    {
+      "id": 2,
+      "content": "An exceptionasdfsdfsdfdl developer who consistently delivers high-quality solutions. Their expertise in modern web technologies is impressive.",
+      "author": {
+        "name": "Tech Lead",
+        "role": "Lead Developer",
+        "company": "Innovation Corp",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=John"
+      }
+    },
+    {
+      "id": 3,
+      "content": "An exceptionasdfsdfsdfdl developer who consistently delivers high-quality solutions. Their expertise in modern web technologies is impressive.",
+      "author": {
+        "name": "Tech Lead",
+        "role": "Lead Developer",
+        "company": "Innovation Corp",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=John"
+      }
+    },
+    {
+      "id": 4,
+      "content": "An exceptionasdfsdfsdfdl developer who consistently delivers high-quality solutions. Their expertise in modern web technologies is impressive.",
+      "author": {
+        "name": "Tech Lead",
+        "role": "Lead Developer",
+        "company": "Innovation Corp",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=John"
+      }
+    },
+    {
+      "id": 5,
+      "content": "An exceptionasdfsdfsdfdl developer who consistently delivers high-quality solutions. Their expertise in modern web technologies is impressive.",
+      "author": {
+        "name": "Tech Lead",
+        "role": "Lead Developer",
+        "company": "Innovation Corp",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=John"
+      }
+    }
+  ],
+  "stats": {
+    "projects": {
+      "count": "100+",
+      "increase": "40%"
+    },
+    "experience": {
+      "years": "1+"
+    },
+    "clients": {
+      "count": "50+"
+    }
+  },
+  "social": {
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com"
+  }
+}
